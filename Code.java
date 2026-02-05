@@ -8,7 +8,7 @@ public class How_Old_APP {
 
                 int age = 0;
 
-                System.out.print("How old are you?");
+                System.out.print("How old are you? ");
 
                 age = userinput.nextInt();
 
